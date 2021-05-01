@@ -22,6 +22,7 @@
     "rules": {
         "no-undef": "off",
         "react/prefer-read-only-props": "error",
+        "react/prop-types": "off",
         "prettier/prettier": [
             "error",
             {
